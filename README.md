@@ -1,1 +1,1 @@
-# Slide_hoc_ngon_ngu
+Slide học các ngôn ngữ 
