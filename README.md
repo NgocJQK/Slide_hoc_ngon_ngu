@@ -1,1 +1,1 @@
-Slide học các ngôn ngữ 
+Slide học ngôn ngữ C
